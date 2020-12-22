@@ -1,3 +1,4 @@
+#Credits Angela Yu Udemy 100 days code challange
 from menu import Menu, MenuItem
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
